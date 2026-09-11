@@ -17,4 +17,8 @@
 - [ ] 
 - [ ] 
 
+## Outfit
+
+- Amulya: A special outfit, open to discuss
+
 ## Notes/Comments
