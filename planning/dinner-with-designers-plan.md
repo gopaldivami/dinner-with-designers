@@ -14,6 +14,8 @@
 - [ ] Ice Cream
 - [ ] Coffee
 - [ ] Italian
+- [ ] Pizza
+- [ ] Cookies
 - [ ] 
 - [ ] 
 
