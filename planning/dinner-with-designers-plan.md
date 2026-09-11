@@ -10,11 +10,11 @@
 
 ## Preferences
 
-- [ ] Non Vegetarian
+- [ ] Vegetarian
 - [ ] Ice Cream
 - [ ] Coffee
 - [ ] Italian
-- [ ] 
-- [ ] 
+- [ ] Momo
+- [ ] Dosa
 
 ## Notes/Comments
