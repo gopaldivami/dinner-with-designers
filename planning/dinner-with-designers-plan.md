@@ -7,8 +7,7 @@
 
 ## Where
 
-- Gopal: Milano, Road #45
-- Gowtham: Milano works. Alternate: Olive Bistro, Road #46
+- Taj Krishna
 
 ## Preferences
 
