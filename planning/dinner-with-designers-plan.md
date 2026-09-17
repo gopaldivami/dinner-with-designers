@@ -19,6 +19,10 @@
 - [ ] Biryani
 - [ ] Dessert Platter
 
+## Outfit
+
+- Amulya: A special outfit, open to discuss
+
 ## Notes/Comments
 
 - Gowtham: Fine with Italian. If we want a second option, Olive Bistro is a 5 min walk from Milano.
